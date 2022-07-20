@@ -1,4 +1,5 @@
 const FILES_TO_CACHE = [
+  "/", 
   "/icons/icon-72x72.png",
   "/icons/icon-96x96.png",
   "/icons/icon-128x128.png",
@@ -7,15 +8,14 @@ const FILES_TO_CACHE = [
   "/icons/icon-192x192.png", 
   "/icons/icon-384x384.png",
   "/icons/icon-512x512.png",
-  "/", 
   "/index.html", 
   "/index.js", 
   "/favicon.ico", 
   "/styles.css"
 ];
 
-const CACHE_NAME = "static-cache";
-const DATA_CACHE_NAME = "data-cache";
+const CACHE_NAME = "static-cache-v1";
+const DATA_CACHE_NAME = "data-cache-v1";
 
 // install the service worker
 self.addEventListener("install", function (evt) {
