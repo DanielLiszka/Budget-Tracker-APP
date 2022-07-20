@@ -1,6 +1,7 @@
  
 # Budget Tracker APP
 
+![gif](./images/Budget-Tracker.gif)
 
 ## Description
 
