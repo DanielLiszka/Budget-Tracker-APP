@@ -1,5 +1,5 @@
  
-# PWA Budget Tracker APP
+# Budget Tracker APP
 
 
 ## Description
@@ -8,8 +8,8 @@ The user is able to add or subtract from their budget with or without a internet
 
 ## Deployment
 
-This application was deployed to Herokuapp.com
-
+This application was deployed to Herokuapp.com<br/>
+[Link](https://pwa-budget-tracker-app-3434.herokuapp.com/)
 
 ## License
 
